@@ -1,0 +1,8 @@
+/* Estilos para el header */
+.navbar {
+    background-color: #c7a7d4; /* Cambia el color aquí */
+}
+
+.navbar .nav-link {
+    color: #fff; /* Cambia el color del texto aquí */
+}
